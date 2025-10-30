@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Excursión a las Termas de Fiambalá",
+    "descripcion": "Visita guiada por las termas naturales, con relax y vistas de los cerros.",
+    "precio": 12000
+  },
+  {
+    "id": 2,
+    "nombre": "Ruta del Vino y Bodega Municipal",
+    "descripcion": "Recorrido por viñedos locales y degustación de vinos artesanales.",
+    "precio": 9000
+  },
+  {
+    "id": 3,
+    "nombre": "Aventura 4x4 en Dunas de Tatón",
+    "descripcion": "Experiencia en vehículos todo terreno por el desierto de Tatón.",
+    "precio": 18000
+  },
+  {
+    "id": 4,
+    "nombre": "Tour por Pueblos Andinos",
+    "descripcion": "Conocé la historia y cultura de los pueblos del valle alto de Fiambalá.",
+    "precio": 15000
+  },
+  {
+    "id": 5,
+    "nombre": "Cabalgata en Fiambalá",
+    "descripcion": "Es una invitación a reconectarse con la naturaleza y con uno mismo. Entre viñedos, médanos y montañas",
+    "precio": 8000
+  },
+  {
+    "id": 6,
+    "nombre": "Trekkinng en las dunas de Taton",
+    "descripcion": "En pleno corazón del desierto catamarqueño, atravesamos las imponentes dunas de Tatón, guiados por la fuerza del sol, la arena y la fe",
+    "precio": 30000
+  },
+  {
+    "id": 7,
+    "nombre": "Trekking a la Mina de los Ratone",
+    "descripcion": "Una aventura que te lleva a lo profundo de los cerros, caminando por antiguos túneles y senderos que cuentan historias.",
+    "precio": 30000
+  },
+  {
+    "id": 8,
+    "nombre": "Sandboarding en las Dunas de Tatón",
+    "descripcion": "Las dunas son especialmente populares para el sandboarding durante el atardecer, cuando el paisaje se vuelve mágico y las vistas son espectaculares",
+    "precio": 30000
+  },
+  {
+    "id": 9,
+    "nombre": "Trekking en el Cañón del Indio",
+    "descripcion": "Un estrecho pasaje entre paredones de caprichosas formas nos invita a caminar y adentrarnos en la cordillera",
+    "precio": 30000
+  }
+]

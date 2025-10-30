@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+/* Estilos base globales */
+html {
+  background-color: #fffaf0; /* fondo claro tipo arena Fiambalá */
+  color: #7b3306;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+html.dark {
+  background-color: #1a1a1a; /* fondo oscuro */
+  color: #f5f5f5;
+}
+
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
