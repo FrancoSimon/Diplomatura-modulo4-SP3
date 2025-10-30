@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && if not exist dist\\api mkdir dist\\api && copy src\\api\\servicios.json dist\\api\\servicios.json",
     "lint": "eslint .",
     "preview": "vite preview"
   },
